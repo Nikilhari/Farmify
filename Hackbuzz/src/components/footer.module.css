@@ -1,0 +1,32 @@
+
+
+
+.footer{
+    font-family: 'Inter';
+    padding-left: 4vw;
+    padding-right: 4vw;
+    display: flex;
+    background-color: rgb(168, 173, 179);
+    font-weight: 500;
+}
+
+.reserve{
+    margin-top: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footerIcons{
+    margin-left: auto;
+}
+
+.footerIconsDiv{
+    display: flex;
+}
+
+.footerIconsDiv svg{
+    width: 56px;
+    height: 56px;
+    padding-left: 30px;
+
+}

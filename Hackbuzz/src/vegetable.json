@@ -1,0 +1,120 @@
+[
+    
+{
+    "name" : "Beans",
+    "img" : "beans.jpg",
+    "price" : "Rs.47.00 per Kg"
+},
+{
+    "name" : "Bitter gourd",
+    "img" : "bittergourd.jpg",
+    "price" : "Rs.32.00 per Kg"
+},
+{
+    "name" : "Brinjal",
+    "img" : "brinjal.jpeg",
+    "price" : "Rs.27.00 per Kg"
+},
+{
+    "name" : "Cauliflower",
+    "img" : "cauliflower.jpg",
+    "price" : "Rs.28.00 per Kg"
+},
+{
+    "name" : "Cabbage",
+    "img" : "cabbage.jpg",
+    "price" : "Rs.20.00 per Kg"
+},
+
+{
+    "name" : "Capsicum",
+    "img" : "capsicum.jpg",
+    "price" : "Rs.50.00 per Kg"
+},
+{
+    "name" : "Drumstick",
+    "img" : "drumstick.jpg",
+    "price" : "Rs.50.00 per Kg"
+},
+{
+    "name" : "Bottle gourd",
+    "img" : "bottle_gourd.jpg",
+    "price" : "Rs.26.00 per Kg"
+},
+{
+    "name" : "Carrot",
+    "img" : "carrot.jpg",
+    "price" : "Rs.43.00 per Kg"
+},
+{
+    "name" : "Garlic",
+    "img" : "garlics.jpeg",
+    "price" : "Rs.169 per Kg"
+},
+{
+    "name" : "Ginger",
+    "img" : "ginger.jpeg",
+    "price" : "Rs.118.00 per Kg"
+},
+{
+    "name" : "Ladies Finger",
+    "img" : "ladies finger.jpg",
+    "price" : "Rs.41.00 per Kg"
+},
+{
+    "name" : "Onion",
+    "img" : "onion.jpeg",
+    "price" : "Rs.27.00 per Kg"
+},
+{
+    "name" : "Peas",
+    "img" : "Peas.jpg",
+    "price" : "Rs.45.00 per Kg"
+},
+{
+    "name" : "Potato",
+    "img" : "potato.jpg",
+    "price" : "Rs.30.00 per Kg"
+},
+{
+    "name" : "Pumpkin",
+    "img" : "pumpkin.jpg",
+    "price" : "Rs.18.00 per Kg"
+},
+{
+    "name" : "Radish",
+    "img" : "raddish.jpg",
+    "price" : "Rs.27.00 per Kg"
+},
+{
+    "name" : "Red chillies",
+    "img" : "red-chillies.jpg",
+    "price" : "Rs.15.00 per Kg"
+},
+{
+    "name" : "Small Onion",
+    "img" : "small_onion.jpg",
+    "price" : "Rs.33.00 per Kg"
+},
+{
+    "name" : "Coriander",
+    "img" : "Coriander.jpg",
+    "price" : "Rs.9.00 per Kg"
+},
+{
+    "name" : "Sweet potato",
+    "img" : "Sweet-Potatoes.jpg",
+    "price" : "Rs.37.00 per Kg"
+},
+{
+    "name" : "Tomato",
+    "img" : "tomato1.jpg",
+    "price" : "Rs.24.00 per Kg"
+},
+{
+    "name" : "Spinach",
+    "img" : "spinach.jpg",
+    "price" : "Rs.15.00 per Kg"
+}
+
+]

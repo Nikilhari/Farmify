@@ -1,0 +1,69 @@
+
+.container{
+    font-family: 'Inter';
+}
+
+.feature{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: seagreen;
+    gap:2rem;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.subHead{
+    text-align: center;
+}
+
+.h1{
+    display: flex;
+    flex-direction:column;
+    gap:1.5rem;
+    justify-content: center;
+    align-items: center;
+}
+.h2{
+    margin-top: 8px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+.card{
+    display: flex;
+    gap: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    padding:1rem;
+}
+.head{
+ font-size: 30px;
+}
+
+.faqQues{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.faqAns{
+    font-size: 15px;
+    font-weight: 400;
+}
+.content{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.featuresIcon{
+    fill: white;
+    height: 28px;
+    width: 28px;
+}
